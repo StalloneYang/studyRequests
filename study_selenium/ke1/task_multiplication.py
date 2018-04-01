@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/4/1 0001 上午 11:16
 # @Author  : StalloneYang
-# @File    : tast_multiplication.py
+# @File    : task_multiplication.py
 # @desc:九九乘法口诀
 
 for i in range(1,10) :

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/4/1 0001 上午 1:10
 # @Author  : StalloneYang
-# @File    : bubbleSort.py
+# @File    : task_bubbleSort.py
 # @desc:
 
 nums = [5,2,45,6,85,8,2,1]

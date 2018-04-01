@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c369f0f0-a6f5-45c7-8cd0-f6b2e412fb1f" name="Default" comment="selenium第一、二课的作业2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/common/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/report/HTMLTestRunner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/report/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/run_main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testadd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testadd3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testtestadd.py" />
+    <list default="true" id="c369f0f0-a6f5-45c7-8cd0-f6b2e412fb1f" name="Default" comment="selenium第一、二课的作业2" />
+    <list id="bf21b35a-256d-41e3-8f6e-4dbb62accceb" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke2/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke3/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke3/test_waiting.py" />
@@ -534,6 +527,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c369f0f0-a6f5-45c7-8cd0-f6b2e412fb1f" name="Default" comment="" />
+      <changelist id="bf21b35a-256d-41e3-8f6e-4dbb62accceb" name="New changelist" comment="" />
       <created>1521338968029</created>
       <option name="number" value="Default" />
       <updated>1521338968029</updated>
@@ -598,7 +592,13 @@
       <option name="project" value="LOCAL" />
       <updated>1522586757697</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="接口 discover方法">
+      <created>1522598702005</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522598702005</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -703,7 +703,8 @@
     <MESSAGE value="第六课" />
     <MESSAGE value="selenium第一、二课的作业" />
     <MESSAGE value="selenium第一、二课的作业2" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium第一、二课的作业2" />
+    <MESSAGE value="接口 discover方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口 discover方法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -34,7 +34,7 @@ print(hre)
 
 # duanzi = soup1.find_all(class_="content")
 # for i in duanzi:
-#     print(i.get_text().replace("\n", ""))
+#     print(i.get_text().replace("\num", ""))
 #     print("+++++++++++++++++++++++++++++++++华丽的分割线++++++++++++++++++++++++++++++")
 
 s3=soup1.div

@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c369f0f0-a6f5-45c7-8cd0-f6b2e412fb1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exception01/login.py" afterPath="$PROJECT_DIR$/exception01/login.py" />
+    <list default="true" id="c369f0f0-a6f5-45c7-8cd0-f6b2e412fb1f" name="Default" comment="selenium第一、二课的作业2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/common/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/report/HTMLTestRunner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/report/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/run_main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testadd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testadd3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ke6/testcase/testtestadd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_selenium/ke3/test_waiting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/study_selenium/ke1/bubbleSort.py" afterPath="$PROJECT_DIR$/study_selenium/ke1/task_bubbleSort.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/study_selenium/ke1/flower.py" afterPath="$PROJECT_DIR$/study_selenium/ke1/task_flower.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/study_selenium/ke1/tast_multiplication.py" afterPath="$PROJECT_DIR$/study_selenium/ke1/task_multiplication.py" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,17 +31,24 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/study$003.coverage" NAME="003 Coverage Results" MODIFIED="1521339710140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception01" />
-    <SUITE FILE_PATH="coverage/studyRequests$tast_multiplication.coverage" NAME="tast_multiplication Coverage Results" MODIFIED="1522586540550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
-    <SUITE FILE_PATH="coverage/studyRequests$qq.coverage" NAME="qq Coverage Results" MODIFIED="1522476198430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
+    <SUITE FILE_PATH="coverage/studyRequests$Unittests_in_testtestadd.coverage" NAME="Unittests in testtestadd Coverage Results" MODIFIED="1522593459132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6/testcase" />
+    <SUITE FILE_PATH="coverage/studyRequests$tast_multiplication.coverage" NAME="tast_multiplication Coverage Results" MODIFIED="1522587603505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
+    <SUITE FILE_PATH="coverage/studyRequests$qq.coverage" NAME="qq Coverage Results" MODIFIED="1522592001119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
+    <SUITE FILE_PATH="coverage/studyRequests$testadd.coverage" NAME="testadd Coverage Results" MODIFIED="1522593032944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6/testcase" />
+    <SUITE FILE_PATH="coverage/studyRequests$task_flower.coverage" NAME="task_flower Coverage Results" MODIFIED="1522594468504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
     <SUITE FILE_PATH="coverage/study$login.coverage" NAME="login Coverage Results" MODIFIED="1521467353507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception01" />
+    <SUITE FILE_PATH="coverage/studyRequests$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1522597308584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
     <SUITE FILE_PATH="coverage/studyRequests$addmath.coverage" NAME="addmath Coverage Results" MODIFIED="1522474941736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
     <SUITE FILE_PATH="coverage/studyRequests$task_logindty.coverage" NAME="task_logindty Coverage Results" MODIFIED="1522577019730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
     <SUITE FILE_PATH="coverage/studyRequests$test_replace.coverage" NAME="test_replace Coverage Results" MODIFIED="1522548867114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
     <SUITE FILE_PATH="coverage/studyRequests$task_openSelenium.coverage" NAME="task_openSelenium Coverage Results" MODIFIED="1522550123398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
+    <SUITE FILE_PATH="coverage/studyRequests$Unittest_TestAdd_testadd1.coverage" NAME="Unittest TestAdd.testadd1 Coverage Results" MODIFIED="1522593158948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6/testcase" />
     <SUITE FILE_PATH="coverage/study$BeautifulSoup1.coverage" NAME="BeautifulSoup1 Coverage Results" MODIFIED="1521389964191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke7" />
     <SUITE FILE_PATH="coverage/studyRequests$bubbleSort.coverage" NAME="bubbleSort Coverage Results" MODIFIED="1522549104789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
+    <SUITE FILE_PATH="coverage/studyRequests$Unittests_in_testadd.coverage" NAME="Unittests in testadd Coverage Results" MODIFIED="1522593334056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6/testcase" />
     <SUITE FILE_PATH="coverage/studyRequests$test_unitest.coverage" NAME="test_unitest Coverage Results" MODIFIED="1522475437667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
     <SUITE FILE_PATH="coverage/studyRequests$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1522475038910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke4" />
+    <SUITE FILE_PATH="coverage/studyRequests$Unittest_TestAdd_testadd2.coverage" NAME="Unittest TestAdd.testadd2 Coverage Results" MODIFIED="1522593161324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6/testcase" />
     <SUITE FILE_PATH="coverage/studyRequests$Unittests_in_test_unitest.coverage" NAME="Unittests in test_unitest Coverage Results" MODIFIED="1522517786430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ke6" />
     <SUITE FILE_PATH="coverage/studyRequests$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1522501977897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
     <SUITE FILE_PATH="coverage/studyRequests$flower.coverage" NAME="flower Coverage Results" MODIFIED="1522586326939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_selenium/ke1" />
@@ -41,106 +62,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_unitest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ke6/test_unitest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qq.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="qq.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ke6/qq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.37795275">
               <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_replace.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/test_replace.py">
+      <file leaf-file-name="run_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ke6/run_main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bubbleSort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/bubbleSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_openSelenium.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_openSelenium.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
-                <element signature="e#168#198#0" expanded="true" />
+                <element signature="e#149#164#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_logindty.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_logindty.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30018762">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#149#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tast_multiplication.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/tast_multiplication.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flower.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_selenium/ke1/flower.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Python36/Lib/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="819" column="44" selection-start-line="819" selection-start-column="44" selection-end-line="819" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webdriver.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="826" column="26" selection-start-line="826" selection-start-column="26" selection-end-line="826" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -183,6 +122,19 @@
         <option value="$PROJECT_DIR$/study_selenium/ke1/task_logindty.py" />
         <option value="$PROJECT_DIR$/study_selenium/ke1/flower.py" />
         <option value="$PROJECT_DIR$/study_selenium/ke1/tast_multiplication.py" />
+        <option value="$PROJECT_DIR$/study_selenium/ke3/test_waiting.py" />
+        <option value="$PROJECT_DIR$/study_selenium/ke1/tast_flower.py" />
+        <option value="$PROJECT_DIR$/study_selenium/ke1/task_multiplication.py" />
+        <option value="$PROJECT_DIR$/study_selenium/ke1/task_bubbleSort.py" />
+        <option value="$PROJECT_DIR$/ke6/testcase/testadd.py" />
+        <option value="$PROJECT_DIR$/ke6/report/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/ke6/report/__init__.py" />
+        <option value="$PROJECT_DIR$/ke6/testcase/__init__.py" />
+        <option value="$PROJECT_DIR$/ke6/common/__init__.py" />
+        <option value="$PROJECT_DIR$/study_selenium/ke1/task_flower.py" />
+        <option value="$PROJECT_DIR$/ke6/testcase/testadd3.py" />
+        <option value="$PROJECT_DIR$/ke6/testcase/testtestadd.py" />
+        <option value="$PROJECT_DIR$/ke6/run_main.py" />
       </list>
     </option>
   </component>
@@ -192,10 +144,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="689" />
-    <option name="y" value="32" />
+    <option name="x" value="616" />
+    <option name="y" value="14" />
     <option name="width" value="1178" />
-    <option name="height" value="996" />
+    <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -241,52 +193,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study_selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study_selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ke1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyRequests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ke6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -299,8 +205,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../testDjango01" />
   </component>
-  <component name="RunManager" selected="Python.tast_multiplication">
-    <configuration default="false" name="bubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace_py\studyRequests\ke6\report" />
+      <recent name="F:\workspace_py\studyRequests\ke6\testcase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration default="false" name="task_flower" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,79 +225,94 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studyRequests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/bubbleSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/task_flower.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="task_openSelenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in testadd" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_selenium/ke1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ke6/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studyRequests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/task_openSelenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ke6/testcase/testadd.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="tast_multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittest TestAdd.testadd2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_selenium/ke1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ke6/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studyRequests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/tast_multiplication.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ke6/testcase/testadd.py" />
+      <option name="CLASS_NAME" value="TestAdd" />
+      <option name="METHOD_NAME" value="testadd2" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="flower" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in testtestadd" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_selenium/ke1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ke6/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studyRequests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/flower.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ke6/testcase/testtestadd.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="task_logindty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_selenium/ke1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ke6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="studyRequests" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_selenium/ke1/task_logindty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ke6/run_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -584,19 +511,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.bubbleSort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.task_openSelenium" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tast_multiplication" />
-      <item index="3" class="java.lang.String" itemvalue="Python.flower" />
-      <item index="4" class="java.lang.String" itemvalue="Python.task_logindty" />
+      <item index="0" class="java.lang.String" itemvalue="Python.task_flower" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testadd" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestAdd.testadd2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testtestadd" />
+      <item index="4" class="java.lang.String" itemvalue="Python.run_main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tast_multiplication" />
-        <item index="1" class="java.lang.String" itemvalue="Python.flower" />
-        <item index="2" class="java.lang.String" itemvalue="Python.task_logindty" />
-        <item index="3" class="java.lang.String" itemvalue="Python.task_openSelenium" />
-        <item index="4" class="java.lang.String" itemvalue="Python.bubbleSort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.run_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.task_flower" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in testtestadd" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testadd" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestAdd.testadd2" />
       </list>
     </recent_temporary>
   </component>
@@ -675,31 +602,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_unitest - 2018.03.31 at 13h 51m 36s.xml">
-      <configuration name="Unittests in test_unitest" configurationId="tests" />
+    <history-entry file="Unittest_TestAdd_testadd1 - 2018.04.01 at 22h 32m 39s.xml">
+      <configuration name="Unittest TestAdd.testadd1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_unitest - 2018.03.31 at 13h 54m 56s.xml">
-      <configuration name="Unittests in test_unitest" configurationId="tests" />
+    <history-entry file="Unittest_TestAdd_testadd2 - 2018.04.01 at 22h 32m 22s.xml">
+      <configuration name="Unittest TestAdd.testadd2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_unitest - 2018.04.01 at 01h 36m 16s.xml">
-      <configuration name="Unittests in test_unitest" configurationId="tests" />
+    <history-entry file="Unittest_TestAdd_testadd2 - 2018.04.01 at 22h 32m 41s.xml">
+      <configuration name="Unittest TestAdd.testadd2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_unitest - 2018.04.01 at 01h 36m 26s.xml">
-      <configuration name="Unittests in test_unitest" configurationId="tests" />
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 32m 26s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 32m 35s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 32m 43s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 34m 43s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 35m 10s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testadd - 2018.04.01 at 22h 35m 34s.xml">
+      <configuration name="Unittests in testadd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testtestadd - 2018.04.01 at 22h 37m 39s.xml">
+      <configuration name="Unittests in testtestadd" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="689" y="32" width="1178" height="996" extended-state="0" />
+    <frame x="616" y="14" width="1178" height="973" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32855436" sideWeight="0.49701494" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855436" sideWeight="0.49701494" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.50298506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32735962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36200717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4963145" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22898032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22898032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -774,74 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exception01/003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exception01/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ke7/BeautifulSoup1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding>
-            <element signature="e#150#165#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exception01/003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exception01/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ke7/BeautifulSoup1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding>
-            <element signature="e#150#165#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ke6/addmath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="826" column="26" selection-start-line="826" selection-start-column="26" selection-end-line="826" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exception01/003.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1102,14 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ke6/test_unitest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Python36/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1122,14 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="826" column="26" selection-start-line="826" selection-start-column="26" selection-end-line="826" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/bubbleSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1152,19 +1013,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/flower.py">
+    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_logindty.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#149#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/test_unitest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/tast_multiplication.py">
+    <entry file="file://$PROJECT_DIR$/study_selenium/ke3/test_waiting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1522587756950" expanded="true" signature="145:478" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1176,21 +1049,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ke6/qq.py">
+    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_bubbleSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.42772278">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_logindty.py">
+    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_flower.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30018762">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.2970297">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/testcase/testtestadd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81889766">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/testcase/testadd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69553804">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_selenium/ke1/task_multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2519685">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/testcase/testadd3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12598425">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31496063">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/testcase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/report/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12598425">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding>
-            <element signature="e#149#160#0" expanded="true" />
+            <element signature="e#3518#3533#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ke6/qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37795275">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

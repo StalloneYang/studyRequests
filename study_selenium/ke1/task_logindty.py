@@ -18,6 +18,7 @@ class task_logindty(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
+        print("关闭浏览器")
         cls.driver.quit()
 
 
